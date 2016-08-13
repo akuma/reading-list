@@ -14,6 +14,7 @@
 
 ## 技术
 
+1. 软技能：代码之外的生存指南 (TODO)
 1. Java 8 函数式编程 (TODO)
 1. JavaScript 语言精粹 (READING)
 1. 快乐的 Linux 命令行
