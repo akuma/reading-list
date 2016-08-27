@@ -18,6 +18,7 @@
 1. Java 8 函数式编程 (TODO)
 1. JavaScript 语言精粹 (READING)
 1. 编写可读代码的艺术 (READING)
+2. MacTalk·人生元编程 (READING)
 1. 快乐的 Linux 命令行
 1. Node.js 开发指南
 1. 重来
