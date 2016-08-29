@@ -26,14 +26,14 @@
 
 ## 历史
 
-1. 你一定爱读的极简欧洲史 (TODO)
-1. 疾驰的草原征服者：辽 西夏 金 元
-1. 中国思想与宗教的奔流：宋朝
-1. 绚烂的世界帝国：隋唐时代
-1. 中华的崩溃与扩大：魏晋南北朝
-1. 三国志的世界：后汉 三国时代
-1. 万历十五年
-1. 明朝那些事儿
+1. [你一定爱读的极简欧洲史](https://book.douban.com/subject/5366248/) (TODO)
+1. [三国志的世界：后汉 三国时代](https://book.douban.com/subject/25828722/)
+1. [中华的崩溃与扩大：魏晋南北朝](https://book.douban.com/subject/25828759/)
+1. [绚烂的世界帝国：隋唐时代](https://book.douban.com/subject/10539156/)
+1. [中国思想与宗教的奔流：宋朝](https://book.douban.com/subject/10553731/)
+1. [疾驰的草原征服者：辽 西夏 金 元](https://book.douban.com/subject/20516975/)
+1. [万历十五年](https://book.douban.com/subject/1041482/)
+1. [明朝那些事儿](https://book.douban.com/subject/7163250/)
 
 ## 纪实
 
