@@ -44,8 +44,8 @@
 
 ## 传记
 
-1. 富兰克林自传 (TODO)
-1. 苏东坡传
+1. [富兰克林自传](https://book.douban.com/subject/11632947/) (TODO)
+1. [苏东坡传](https://book.douban.com/subject/1792668/)
 
 ## 文学
 
@@ -53,6 +53,7 @@
 1. 了不起的盖茨比 (TODO)
 1. 京华烟云 (TODO)
 1. 火星救援 (TODO)
+1. 动物农场 (TODO)
 1. 清明上河图密码 (READING)
 1. 老人与海
 1. 海底两万里
