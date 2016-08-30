@@ -71,7 +71,7 @@
 
 ## 政治
 
-1. [大法官说了算](https://book.douban.com/subject/4915989/)
+1. [大法官说了算 : 美国司法观察笔记](https://book.douban.com/subject/4915989/)
 1. [历史深处的忧虑 : 近距离看美国之一](https://book.douban.com/subject/1027191/)
 1. [总统是靠不住的 : 近距离看美国之二](https://book.douban.com/subject/1056315/)
 1. [我也有一个梦想 : 近距离看美国之三](https://book.douban.com/subject/1014825/)
