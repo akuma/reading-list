@@ -27,7 +27,7 @@
 
 ## 历史
 
-1. [你一定爱读的极简欧洲史](https://book.douban.com/subject/5366248/) (TODO)
+1. [你一定爱读的极简欧洲史 : 为什么欧洲对现代文明的影响这么深](https://book.douban.com/subject/5366248/) (TODO)
 1. [三国志的世界 : 后汉 三国时代](https://book.douban.com/subject/25828722/)
 1. [中华的崩溃与扩大 : 魏晋南北朝](https://book.douban.com/subject/25828759/)
 1. [绚烂的世界帝国 : 隋唐时代](https://book.douban.com/subject/10539156/)
