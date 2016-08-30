@@ -16,11 +16,12 @@
 
 1. [软技能 : 代码之外的生存指南](https://book.douban.com/subject/26835090/) (TODO)
 1. [Java 8 函数式编程](https://book.douban.com/subject/26346017/) (TODO)
-1. [JavaScript 语言精粹](https://book.douban.com/subject/6516576/) (READING)
+1. [JavaScript 语言精粹](https://book.douban.com/subject/11874748/) (READING)
 1. [编写可读代码的艺术](https://book.douban.com/subject/10797189/) (READING)
 2. [MacTalk·人生元编程](https://book.douban.com/subject/25826578/) (READING)
-1. [快乐的 Linux 命令行](https://book.douban.com/subject/22226727/)
+1. [快乐的 Linux 命令行](http://billie66.github.io/TLCL/)
 1. [Node.js 开发指南](https://book.douban.com/subject/10789820/)
+1. [创业维艰 : 如何完成比难更难的事](https://book.douban.com/subject/26306686/)
 1. [重来 : 更为简单有效的商业思维](https://book.douban.com/subject/5320866/)
 1. [精益创业 : 新创企业的成长思维](https://book.douban.com/subject/10945606/)
 
