@@ -71,8 +71,8 @@
 
 ## 政治
 
-1. 大法官说了算
-1. 历史深处的忧虑 : 近距离看美国之一
-1. 总统是靠不住的 : 近距离看美国之二
-1. 我也有一个梦想 : 近距离看美国之三
-1. 如彗星划过夜空 : 近距离看美国之四 (TODO)
+1. [大法官说了算](https://book.douban.com/subject/4915989/)
+1. [历史深处的忧虑 : 近距离看美国之一](https://book.douban.com/subject/1027191/)
+1. [总统是靠不住的 : 近距离看美国之二](https://book.douban.com/subject/1056315/)
+1. [我也有一个梦想 : 近距离看美国之三](https://book.douban.com/subject/1014825/)
+1. [如彗星划过夜空 : 近距离看美国之四](https://book.douban.com/subject/1762869/) (TODO)
