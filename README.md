@@ -45,21 +45,21 @@
 ## 传记
 
 1. [富兰克林自传](https://book.douban.com/subject/11632947/) (TODO)
-1. [苏东坡传](https://book.douban.com/subject/1792668/)
+1. [苏东坡传](https://book.douban.com/subject/4896729/)
 
 ## 文学
 
-1. 巨人的陨落 (TODO)
-1. 了不起的盖茨比 (TODO)
-1. 京华烟云 (TODO)
-1. 火星救援 (TODO)
-1. 动物农场 (TODO)
-1. 清明上河图密码 (READING)
-1. 老人与海
-1. 海底两万里
-1. 神秘岛
-1. 敦煌
-1. 楼兰
+1. [巨人的陨落](https://book.douban.com/subject/26698660/) (TODO)
+1. [了不起的盖茨比](https://book.douban.com/subject/22025032/) (TODO)
+1. [京华烟云](https://book.douban.com/subject/4871467/) (TODO)
+1. [火星救援](https://book.douban.com/subject/26586492/) (TODO)
+1. [动物农场](https://book.douban.com/subject/4908879/) (TODO)
+1. [清明上河图密码](https://book.douban.com/subject/26265745/) (READING)
+1. [老人与海](https://book.douban.com/subject/20443556/)
+1. [神秘岛](https://book.douban.com/subject/3198681/)
+1. [海底两万里](https://book.douban.com/subject/1703952/)
+1. [敦煌](https://book.douban.com/subject/5348044/)
+1. [楼兰](https://book.douban.com/subject/24529164/)
 
 ## 科学
 
