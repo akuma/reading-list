@@ -25,6 +25,7 @@
 1. [重来 : 更为简单有效的商业思维](https://book.douban.com/subject/5320866/)
 1. [精益创业 : 新创企业的成长思维](https://book.douban.com/subject/10945606/)
 1. [JAVA 并发编程实践](https://book.douban.com/subject/2148132/)
+1. [Effective Java 中文版](https://book.douban.com/subject/1103015/)
 
 ## 历史
 
