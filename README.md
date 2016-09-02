@@ -62,6 +62,7 @@
 1. [老人与海](https://book.douban.com/subject/20443556/)
 1. [神秘岛](https://book.douban.com/subject/3198681/)
 1. [海底两万里](https://book.douban.com/subject/1703952/)
+1. [兰陵王](https://book.douban.com/subject/24292290/)
 1. [浪人](https://book.douban.com/subject/23011195/)
 1. [敦煌](https://book.douban.com/subject/5348044/)
 1. [楼兰](https://book.douban.com/subject/24529164/)
