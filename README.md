@@ -24,6 +24,7 @@
 1. [创业维艰 : 如何完成比难更难的事](https://book.douban.com/subject/26306686/)
 1. [重来 : 更为简单有效的商业思维](https://book.douban.com/subject/5320866/)
 1. [精益创业 : 新创企业的成长思维](https://book.douban.com/subject/10945606/)
+1. [JAVA 并发编程实践](https://book.douban.com/subject/2148132/)
 
 ## 历史
 
@@ -60,6 +61,9 @@
 1. [时间的习俗](https://book.douban.com/subject/24840351/)
 1. [大手笔 : 松本清张杰作选一](https://book.douban.com/subject/20267980/)
 1. [坏女人 : 松本清张杰作选二](https://book.douban.com/subject/20381888/)
+1. [放学后](https://book.douban.com/subject/4074636/)
+1. [嫌疑人 X 的献身](https://book.douban.com/subject/3211779/)
+1. [只有猫知道](https://book.douban.com/subject/6712851/)
 1. [无止境的杀人](https://book.douban.com/subject/11621649/)
 1. [老人与海](https://book.douban.com/subject/20443556/)
 1. [神秘岛](https://book.douban.com/subject/3198681/)
