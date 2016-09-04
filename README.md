@@ -37,6 +37,7 @@
 1. [疾驰的草原征服者 : 辽 西夏 金 元](https://book.douban.com/subject/20516975/)
 1. [万历十五年](https://book.douban.com/subject/1858410/)
 1. [明朝那些事儿](https://book.douban.com/subject/7163250/)
+1. [帝国最后的荣耀 : 大明1592抗日援朝](https://book.douban.com/subject/6791427/)
 
 ## 纪实
 
