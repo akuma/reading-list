@@ -83,6 +83,7 @@
 1. [费马大定理 : 一个困惑了世间智者358年的谜](https://book.douban.com/subject/20494401/)
 1. [上帝掷骰子吗 : 量子物理史话](https://book.douban.com/subject/6434486/)
 1. [赶往火星 : 红色星球定居计划](https://book.douban.com/subject/10532684/)
+1. [浪潮之巅](https://book.douban.com/subject/6709783/)
 
 ## 政治
 
