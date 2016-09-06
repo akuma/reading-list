@@ -37,14 +37,14 @@
 1. [疾驰的草原征服者 : 辽 西夏 金 元](https://book.douban.com/subject/20516975/)
 1. [万历十五年](https://book.douban.com/subject/1858410/)
 1. [明朝那些事儿](https://book.douban.com/subject/7163250/)
-1. [帝国最后的荣耀 : 大明1592抗日援朝](https://book.douban.com/subject/6791427/)
+1. [帝国最后的荣耀 : 大明 1592 抗日援朝](https://book.douban.com/subject/6791427/)
 
 ## 纪实
 
 1. [奇石 : 来自东西方的报道](https://book.douban.com/subject/25833450/) (READING)
 1. [寻路中国 : 从乡村到工厂的自驾之旅](https://book.douban.com/subject/5414391/)
 1. [江城](https://book.douban.com/subject/7060185/)
-1. [我们台湾这些年 : 一个台湾青年写给13亿大陆同胞的一封家书](https://book.douban.com/subject/4113090/)
+1. [我们台湾这些年 : 一个台湾青年写给 13 亿大陆同胞的一封家书](https://book.douban.com/subject/4113090/)
 
 ## 传记
 
@@ -80,7 +80,7 @@
 1. [魔鬼经济学](https://book.douban.com/subject/26799211/) (TODO)
 1. [智能时代 : 大数据与智能革命重新定义未来](https://book.douban.com/subject/26838557/) (TODO)
 1. [乌合之众 : 大众心理研究](https://book.douban.com/subject/26711347/) (TODO)
-1. [费马大定理 : 一个困惑了世间智者358年的谜](https://book.douban.com/subject/20494401/)
+1. [费马大定理 : 一个困惑了世间智者 358 年的谜](https://book.douban.com/subject/20494401/)
 1. [上帝掷骰子吗 : 量子物理史话](https://book.douban.com/subject/6434486/)
 1. [赶往火星 : 红色星球定居计划](https://book.douban.com/subject/10532684/)
 1. [浪潮之巅](https://book.douban.com/subject/6709783/)
