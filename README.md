@@ -5,11 +5,12 @@
 ## 索引
 
 - [技术](#技术)
-- [历史](#历史)
 - [纪实](#纪实)
 - [传记](#传记)
+- [历史](#历史)
 - [文学](#文学)
 - [科学](#科学)
+- [经济](#经济)
 - [政治](#政治)
 
 ## 技术
@@ -27,18 +28,6 @@
 1. [JAVA 并发编程实践](https://book.douban.com/subject/2148132/)
 1. [Effective Java 中文版](https://book.douban.com/subject/1103015/)
 
-## 历史
-
-1. [你一定爱读的极简欧洲史 : 为什么欧洲对现代文明的影响这么深](https://book.douban.com/subject/5366248/) (TODO)
-1. [三国志的世界 : 后汉 三国时代](https://book.douban.com/subject/25828722/)
-1. [中华的崩溃与扩大 : 魏晋南北朝](https://book.douban.com/subject/25828759/)
-1. [绚烂的世界帝国 : 隋唐时代](https://book.douban.com/subject/10539156/)
-1. [中国思想与宗教的奔流 : 宋朝](https://book.douban.com/subject/10553731/)
-1. [疾驰的草原征服者 : 辽 西夏 金 元](https://book.douban.com/subject/20516975/)
-1. [万历十五年](https://book.douban.com/subject/1858410/)
-1. [明朝那些事儿](https://book.douban.com/subject/7163250/)
-1. [帝国最后的荣耀 : 大明 1592 抗日援朝](https://book.douban.com/subject/6791427/)
-
 ## 纪实
 
 1. [奇石 : 来自东西方的报道](https://book.douban.com/subject/25833450/) (READING)
@@ -50,6 +39,18 @@
 
 1. [富兰克林自传](https://book.douban.com/subject/11632947/) (TODO)
 1. [苏东坡传](https://book.douban.com/subject/4896729/)
+
+## 历史
+
+1. [你一定爱读的极简欧洲史 : 为什么欧洲对现代文明的影响这么深](https://book.douban.com/subject/5366248/) (TODO)
+1. [三国志的世界 : 后汉 三国时代](https://book.douban.com/subject/25828722/)
+1. [中华的崩溃与扩大 : 魏晋南北朝](https://book.douban.com/subject/25828759/)
+1. [绚烂的世界帝国 : 隋唐时代](https://book.douban.com/subject/10539156/)
+1. [中国思想与宗教的奔流 : 宋朝](https://book.douban.com/subject/10553731/)
+1. [疾驰的草原征服者 : 辽 西夏 金 元](https://book.douban.com/subject/20516975/)
+1. [万历十五年](https://book.douban.com/subject/1858410/)
+1. [明朝那些事儿](https://book.douban.com/subject/7163250/)
+1. [帝国最后的荣耀 : 大明 1592 抗日援朝](https://book.douban.com/subject/6791427/)
 
 ## 文学
 
@@ -77,13 +78,17 @@
 
 ## 科学
 
-1. [魔鬼经济学](https://book.douban.com/subject/26799211/) (TODO)
 1. [智能时代 : 大数据与智能革命重新定义未来](https://book.douban.com/subject/26838557/) (TODO)
 1. [乌合之众 : 大众心理研究](https://book.douban.com/subject/26711347/) (TODO)
 1. [费马大定理 : 一个困惑了世间智者 358 年的谜](https://book.douban.com/subject/20494401/)
 1. [上帝掷骰子吗 : 量子物理史话](https://book.douban.com/subject/6434486/)
 1. [赶往火星 : 红色星球定居计划](https://book.douban.com/subject/10532684/)
 1. [浪潮之巅](https://book.douban.com/subject/6709783/)
+
+## 经济
+
+1. [经济学通识](https://book.douban.com/subject/3869949/)
+1. [魔鬼经济学](https://book.douban.com/subject/26799211/) (TODO)
 
 ## 政治
 
