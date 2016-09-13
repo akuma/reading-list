@@ -16,7 +16,7 @@
 ## 技术
 
 1. [软技能 : 代码之外的生存指南](https://book.douban.com/subject/26835090/) (TODO)
-1. [Java 8 函数式编程](https://book.douban.com/subject/26346017/) (TODO)
+1. [Java 8 函数式编程](https://book.douban.com/subject/26346017/) (READING)
 1. [JavaScript 语言精粹](https://book.douban.com/subject/11874748/)
 1. [编写可读代码的艺术](https://book.douban.com/subject/10797189/) (READING)
 2. [MacTalk·人生元编程](https://book.douban.com/subject/25826578/) (READING)
