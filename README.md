@@ -87,8 +87,8 @@
 
 ## 经济
 
-1. [经济学通识](https://book.douban.com/subject/3869949/)
 1. [魔鬼经济学](https://book.douban.com/subject/26799211/) (TODO)
+1. [经济学通识](https://book.douban.com/subject/3869949/)
 
 ## 政治
 
