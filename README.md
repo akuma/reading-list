@@ -39,6 +39,7 @@
 
 1. [富兰克林自传](https://book.douban.com/subject/11632947/) (TODO)
 1. [苏东坡传](https://book.douban.com/subject/4896729/)
+1. [20 个月赚 130 亿 : YouTube 创始人陈士骏自传](https://book.douban.com/subject/6920100/)
 
 ## 历史
 
