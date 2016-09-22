@@ -14,6 +14,7 @@
 
 ## 技术
 
+1. [程序员跳槽全攻略]
 1. [软技能 : 代码之外的生存指南](https://book.douban.com/subject/26835090/) (READING)
 1. [Java 8 函数式编程](https://book.douban.com/subject/26346017/) (READING)
 1. [JavaScript 语言精粹](https://book.douban.com/subject/11874748/)
