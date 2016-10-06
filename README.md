@@ -18,6 +18,7 @@
 1. [Java 8 函数式编程](https://book.douban.com/subject/26346017/) (READING)
 1. [编写可读代码的艺术](https://book.douban.com/subject/10797189/) (READING)
 1. [MacTalk·人生元编程](https://book.douban.com/subject/25826578/) (READING)
+1. [http2 explained](https://http2-explained.haxx.se/content/zh/)
 1. [程序员跳槽全攻略](https://read.douban.com/ebook/7611058/)
 1. [JavaScript 语言精粹](https://book.douban.com/subject/11874748/)
 1. [快乐的 Linux 命令行](http://billie66.github.io/TLCL/)
