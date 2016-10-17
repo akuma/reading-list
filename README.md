@@ -60,7 +60,7 @@
 1. [了不起的盖茨比](https://book.douban.com/subject/22025032/) (TODO)
 1. [京华烟云](https://book.douban.com/subject/4871467/) (TODO)
 1. [火星救援](https://book.douban.com/subject/26586492/) (TODO)
-1. [动物农场](https://book.douban.com/subject/4908879/) (TODO)
+1. [动物农场](https://book.douban.com/subject/4908879/)
 1. [清明上河图密码 : 隐藏在千古名画中的阴谋与杀局](https://book.douban.com/subject/26265745/) (READING)
 1. [隐花平原](https://book.douban.com/subject/21693092/)
 1. [时间的习俗](https://book.douban.com/subject/24840351/)
