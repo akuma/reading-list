@@ -28,6 +28,7 @@
 1. [创业维艰 : 如何完成比难更难的事](https://book.douban.com/subject/26306686/)
 1. [重来 : 更为简单有效的商业思维](https://book.douban.com/subject/5320866/)
 1. [精益创业 : 新创企业的成长思维](https://book.douban.com/subject/10945606/)
+1. [构建高性能 Web 站点 : 改善性能和扩展规模的具体做法]
 1. [JAVA 并发编程实践](https://book.douban.com/subject/2148132/)
 1. [Effective Java 中文版](https://book.douban.com/subject/1103015/)
 
