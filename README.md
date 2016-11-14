@@ -14,7 +14,7 @@
 
 ## 技术
 
-1. [深入理解 Java 内存模型]（TODO）
+1. [Java 并发编程的艺术](https://book.douban.com/subject/26591326/)（READING）
 1. [深入理解Java虚拟机 : JVM 高级特性与最佳实践](https://book.douban.com/subject/24722612/) (TODO)
 1. [软技能 : 代码之外的生存指南](https://book.douban.com/subject/26835090/) (READING)
 1. [Java 8 函数式编程](https://book.douban.com/subject/26346017/) (READING)
